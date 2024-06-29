@@ -1,0 +1,98 @@
+.sites{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    background-color: black;
+    padding: 5px 30px 5px 30px;
+    margin: 0px;
+    font-size: large;
+}
+.whole{
+    display: flex;
+    justify-content: start;
+    margin: 0%;
+    padding: 10px 20px 10px 20px;
+}
+.image{
+    text-align: end;
+    margin: 30px 50px 30px 50px;
+    border: 10px solid black;
+    border-radius: 25px;
+}
+.content{
+    text-align: left;
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bold;
+}
+#line{
+    color: orangered;
+    font-size: 450%;
+    text-align: left;
+}
+.app_{
+    display: flex;
+    justify-content: left;
+}
+.app{
+    color: white;
+    background-color: black;
+    text-align: left;
+    font-size: xx-large;
+    font-weight: bold;
+    border: 5px solid black;
+    margin-left: 20px;
+}
+.app2{
+    color: white;
+    background-color: orangered;
+    text-align: left;
+    font-size: xx-large;
+    font-weight: bold;
+    border: 5px solid black;
+    margin-left: 20px;
+}
+.image2{
+    text-align: start;
+    background-color: black;
+    color: white;
+    margin: 30px 50px 30px 50px;
+    border: 10px solid black;
+    border-radius: 20px;
+}
+.content2{
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bold;
+}
+#line2{
+    color: orangered;
+    font-size: 450%;
+    text-align: center
+}
+.app3{
+    display: flex;
+    justify-content: center;
+    margin: 30px 50px 30px 50px;
+}
+#line3{
+    color: orangered;
+    font-size: 200%;
+    text-align: center
+}
+.content3{
+    color: black;
+    font-size: 200%;
+    text-align: center
+}
+.contact_form{
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.last_line{
+    border: 5px solid black;
+    border-radius: 10px;
+}
